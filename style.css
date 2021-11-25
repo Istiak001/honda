@@ -1,0 +1,153 @@
+/* Google Font link */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+/*
+     font family name
+
+     font-family: 'Poppins', sans-serif;
+
+ */
+ 
+/* Universal Css Link */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Common CSS Link */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* Header Section  */
+.header-bg{
+    background-color: #264653;
+    color: white;
+}
+.logo{
+    color: white;
+}
+.logo:hover{
+    color:white;
+}
+.navbar-toggler{
+    background-color: #E76F51;
+    color: white;
+}
+.navbar-toggler-icon{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+#login-btn{
+    padding: 7px 15px;
+}
+.nav-link:hover{
+    color:white;
+}
+.t-color{
+    color:#E0E0E0;
+}
+.purchess-btn{
+    color: white;
+    background-color: #E76F51;
+    padding: 8px 20px;
+    border-radius: 3px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.purchess-btn:hover{
+    color: white;
+}
+.color-black{
+    color: black;
+}
+/* single img Card Section Start */
+.tex-red{
+    color: #E76F51;
+}
+.line{
+    width:5%;
+    height: 2px;
+    background-color: #E76F51;
+    margin-top: -13px;
+}
+.gray-img{
+    filter: grayscale(100%);
+}
+/* Honda Setion Start  */
+.card-btn{
+    padding: 7px 10px;
+    color: #E76F51;
+    border: 1px solid #E76F51;
+    background-color: white;
+    border-radius: 3px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.card-btn:hover{
+    background-color: #E76F51;
+    color: white;
+}
+/* Happy Cliente Section Start */
+.happy-c{
+    color: #E76F51;
+}
+.center-text{
+    text-align: center;
+}
+.card-icon{
+    color: #E76F51;
+}
+.t-blue{
+    color: #23A6F0;
+    font-weight: bold;
+    text-decoration: none;
+}
+.t-blue:hover{
+    color:#23A6F0;
+}
+.span-card{
+    font-weight: bold;
+    color: black;
+}
+.smaily-girl{
+    width: 94px!important;
+    height: 137Px;
+    border-radius: 50%;
+}
+/* faq section css */
+.accordion-button:not(.collapsed){
+    color: black;
+    background-color: white;
+}
+/* contact us/location section */
+#contact{
+    color: black;
+}
+.color-contact{
+    color: #E76F51;
+    font-weight: bold;
+}
+.sent-btn{
+    color: white;
+    background-color: #E76F51;
+    border-radius: 4px;
+    padding: 8px 10px;
+    outline: none;
+    font-weight: bold;
+}
+.sent-btn:hover{
+    color: white;
+}
+/* footer Section */
+.footer-bg{
+    background-color: #000000;
+}
+.footer-bg a{
+    color: white;
+    text-decoration: none;
+}
+.get-app{
+    color: white;
+}
